@@ -1,0 +1,28 @@
+body{
+    font-family: "comic";
+    background-color: rgb(53, 149, 179);
+}
+.header_div{
+    background-color:rgba(30, 89, 141, 0.831);
+    color: aliceblue;
+}
+.main_div button{
+    font-family: "comic";
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bold;
+    letter-spacing: 3px;
+    background-color:rgba(255, 1, 1, 0.817) ;
+    color: white;
+}
+.copy_right{
+    position: fixed;
+    color:rgb(255, 0, 0);
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color:rgb(203, 223, 241) ; 
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgba(90, 5, 5, 0.874);
+}
